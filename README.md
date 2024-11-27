@@ -1,6 +1,8 @@
 # React Native Home Services App
 
 This is a React Native project built using React Native CLI, showcasing a home services app with various features such as a grid-based categories section, special offers, recommended services, and a discover & explore section. The app follows a pixel-perfect design based on Figma specifications.
+![simulator_screenshot_83D708A9-97EE-4A6D-9C6B-434B36ECEE3F](https://github.com/user-attachments/assets/c42e6480-3995-46e3-b914-275d55125d18)
+![simulator_screenshot_D886FB4D-15F0-4AC4-9038-24ECA0B7B36F](https://github.com/user-attachments/assets/92cebe04-60ed-44c7-8651-f2408206d239)
 
 ---
 
